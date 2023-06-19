@@ -13,7 +13,7 @@ Here are some of my most recent projects that showcase my skills and experience:
 
 [Netflix Clone](https://github.com/charlotte54/netflix-clone): A full-stack web application that mimics the functionality of the popular streaming service, Netflix. 
 
-[Dad Jokes](https://github.com/charlotte54/dadjokes): A lighthearted React app that generates dad jokes using a public API.
+[Dad Jokes](https://github.com/charlotte54/dadjokes): A lighthearted React app that generates dad jokes using a public API. URL: https://verybaddadjokes.netlify.app/
 
 ## Follow Me
 You can also follow me on LinkedIn to stay updated on my latest activities:
