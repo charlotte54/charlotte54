@@ -11,7 +11,7 @@ I am always seeking new challenges and opportunities to learn and grow as a deve
 ## My Work
 Here are some of my most recent projects that showcase my skills and experience:
 
-Netflix Clone: A full-stack web application that mimics the functionality of the popular streaming service, Netflix. 
+[Netflix Clone](https://github.com/charlotte54/netflix-clone): A full-stack web application that mimics the functionality of the popular streaming service, Netflix. 
 
 Hangman Game: A fun and interactive mobile game built with React Native that allows players to guess the word and avoid getting hanged.
 
