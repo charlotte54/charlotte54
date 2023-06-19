@@ -13,11 +13,9 @@ Here are some of my most recent projects that showcase my skills and experience:
 
 [Netflix Clone](https://github.com/charlotte54/netflix-clone): A full-stack web application that mimics the functionality of the popular streaming service, Netflix. 
 
-Hangman Game: A fun and interactive mobile game built with React Native that allows players to guess the word and avoid getting hanged.
-
-Dad Jokes: A lighthearted React app that generates dad jokes using a public API.
+[Dad Jokes](https://github.com/charlotte54/dadjokes): A lighthearted React app that generates dad jokes using a public API.
 
 ## Follow Me
-You can also follow me on social media to stay updated on my latest projects and activities:
+You can also follow me on LinkedIn to stay updated on my latest activities:
 
 LinkedIn: https://www.linkedin.com/in/charlotte15/
